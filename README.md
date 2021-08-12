@@ -2,3 +2,4 @@
 * `sudoku solver`
 * `hangman`
 * `tic-tac-toe`
+* `minesweeper`
